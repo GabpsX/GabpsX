@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </head>
     
 <script>
-    .perfil a {
+    .perfil img {
     height: 50%;
     }
 </script>
