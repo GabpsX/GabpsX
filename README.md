@@ -28,6 +28,7 @@ Here are some ideas to get you started:
     <div style="display: inline_block"class = "perfil">
         <h1>### Hi there 👋, my name is Gabriel.</h1>
     <figure>
+        <!--
   	<a href = "https://github.com/GabpsX"></a><img src="###pf/2021-01-14.jpg" alt="Imagem"></a>
   	<figcaption></figcaption>
     </figure>
