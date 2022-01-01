@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <figure>
   	<a href = "https://github.com/GabpsX"></a><img src="pf/2021-01-14.jpg" alt="Imagem"></a>
   	<figcaption></figcaption>
-     </figure>
+    </figure>
      <h1>Chemical Engineer<br>Information Technology Technician</h1>
      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, fugit, ipsam reprehenderit porro aperiam esse quibusdam ratione excepturi amet est.</p>
     <li>🔭 I’m currently working on ...</li>
