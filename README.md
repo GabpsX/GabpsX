@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     
      <h1>Chemical Engineer<br>Information Technology Technician</h1>
     -->
-     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, fugit, ipsam reprehenderit porro aperiam esse quibusdam ratione excepturi amet est.</p>
+    ![GabpsX github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
     <li>🔭 I’m currently working on ...</li>
     <li>🌱 I’m currently learning ...</li>
     <li>👯 I’m looking to collaborate on ...</li>
