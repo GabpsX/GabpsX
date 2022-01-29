@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GabpsX github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
