@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GabpsX github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
     
      <h1>Chemical Engineer<br>Information Technology Technician</h1>
     -->
-    ![GabpsX github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+    
     <li>🔭 I’m currently working on ...</li>
     <li>🌱 I’m currently learning ...</li>
     <li>👯 I’m looking to collaborate on ...</li>
