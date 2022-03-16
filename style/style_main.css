@@ -1,0 +1,66 @@
+#img_git {
+  width: 8em;
+  height: 8em;
+  border-radius: 5cm;
+}
+
+
+
+
+#img_redirect_to_git_hub {
+  border-radius: 10em;
+}
+
+.hint div {display:none;position:relative}
+.hint:hover div {display:block;position:absolute;top:0;margin-left:40px}
+
+.hint {
+width:1.5em;height:1.5em;
+text-align:center;
+font:20px/1.5em "segoe ui",arial,helvetica,sans-serif;
+border:1px solid #999;
+border-radius:50%;
+color:#999;
+}
+
+.hint div {
+width:8em;
+color:#fff;
+background:#999;
+border-radius:5px;
+padding:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.hint {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+a:hover ~ span {
+  display: block;
+}
+
+span {
+  display: none;
+  color: #fff;
+ 
+  width: 15%;
+  padding: 10px;
+  border-radius: 4px;
+  position: relative;
+  top: -100px;
+  left: 60%;
+}
