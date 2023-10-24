@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <body>
     <div style="display: inline_block"class = "perfil">
-        <h1>### Hi there 👋, my name is Gabriel.</h1>
+        <h1></h1>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabpsX&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
         <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabpsX&layout=compact&langs_count=8&theme=light&include_all_commits=true&count_private=true"/>
 
