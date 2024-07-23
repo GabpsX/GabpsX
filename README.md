@@ -1,17 +1,42 @@
-# Welcome to GabpsX's GitHub Profile!
+<!--
+**GabpsX/GabpsX** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-## 📊 GitHub Stats
+Here are some ideas to get you started:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabpsX&show_icons=true&theme=light&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabpsX&layout=compact&langs_count=8&theme=light&include_all_commits=true&count_private=false)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+-->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    
+</head>
+
+<body>
+  ## 📊 GitHub Stats
+    <div style="display: inline_block"class = "perfil">
+        <h1></h1>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabpsX&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+        <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabpsX&layout=compact&langs_count=8&theme=light&include_all_commits=true&count_private=false"/>
 
 ## 🌐 Social Links
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in//) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com//) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/)
+        [<img alt="My Page" width="50" height="50" border-radius="5" src="https://raw.githubusercontent.com/GabpsX/GabpsX/a488afe575e5a193d5a22f85ef60cba16d7d1251/docs/icons8-github.gif"/>](https://gabpsx.github.io/GabpsX/)
+ 
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+</body>
 
-## 💻 Visit My GitHub Page
 
-[![My Page](https://raw.githubusercontent.com/GabpsX/GabpsX/a488afe575e5a193d5a22f85ef60cba16d7d1251/docs/icons8-github.gif)](https://gabpsx.github.io/GabpsX/)
+
+
+
+</html>
